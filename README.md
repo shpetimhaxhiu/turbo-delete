@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.0.1-green"> <img src="https://img.shields.io/github/license/XtremeDevX/turbo-delete?color=pink"> <img src="https://img.shields.io/tokei/lines/github/XtremeDevX/turbo-delete?color=white&label=lines%20of%20code"> <img src="https://img.shields.io/github/languages/top/XtremeDevX/turbo-delete?color=%230xfffff"> <img src="https://img.shields.io/github/repo-size/XtremeDevX/turbo-delete?color=orange">
+  <img src="https://img.shields.io/badge/version-0.2.0-green"> <img src="https://img.shields.io/github/license/XtremeDevX/turbo-delete?color=pink"> <img src="https://img.shields.io/tokei/lines/github/XtremeDevX/turbo-delete?color=white&label=lines%20of%20code"> <img src="https://img.shields.io/github/languages/top/XtremeDevX/turbo-delete?color=%230xfffff"> <img src="https://img.shields.io/github/repo-size/XtremeDevX/turbo-delete?color=orange">
 </p>
 
 <br>
